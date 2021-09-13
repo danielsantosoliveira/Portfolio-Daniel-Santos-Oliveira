@@ -14,7 +14,7 @@
 
 ### Visão do Projeto (ExCo)
 
-​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos indicar produtos em um estoque e também cadastrá-los em uma basse de dados para que o usuário interaja via aplicativo, utilizando o módulo ESP-8266 com o Web Server configurando no IDE Arduino foi possívelfazer essa solução fácil e prática.
+​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos indicar produtos em um estoque e também cadastrá-los em uma base de dados para que o usuário interaja via aplicativo, utilizando o módulo ESP-8266 com o Web Server configurando no IDE Arduino foi possível fazer essa solução fácil e prática.
 
 ​	ExCo é um aplicativo desenvolvido para atender a necessidade de estoques, seja qual for, devida dificuldade para encontrarem seus produtos, por conta da quantidade variada e tamanho dos locais de armazenamento. Com uma interface amigável e hardware de baixo custo, o projeto oferece facilitar a identificação dos locais ao qual os produtos cadastrados se encontram em seus estoques, com LEDs indicativos, ao selecionar o produto no aplicativo, a solução indica o caminho ao qual se encontra. A solução pode ser utilizada através de celulares, tablets ou computares em redes locais, através da comunicação Wireless.
 
