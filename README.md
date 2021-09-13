@@ -20,7 +20,9 @@
 
 [ExCo](https://github.com/danielsantosoliveira/ExCo)
 
+##### Arquitetura do Projeto
 
+![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura.PNG)
 
 ### Tecnologias adotadas na solução (Equipe)
 
