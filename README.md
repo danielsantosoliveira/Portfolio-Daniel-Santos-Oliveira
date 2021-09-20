@@ -24,7 +24,7 @@
 
 ![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura.PNG)
 
-##### Prévia simples da solução
+##### Prévia simplificada da solução
 
 ![ExCo - Prévia](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/gif/previasimplificada.gif)
 
