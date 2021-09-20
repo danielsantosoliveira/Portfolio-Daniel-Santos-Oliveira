@@ -26,7 +26,9 @@
 
 ##### Prévia simples da solução
 
-![ExCo - Prévia](https://media.giphy.com/media/B945lGvm6EKgOfThkL/giphy.gif)
+![ExCo - Prévia](.\resources\gif\previasimplificada.gif)
+
+
 
 
 
