@@ -26,7 +26,7 @@
 
 ##### Prévia simples da solução
 
-![ExCo - Prévia](.\resources\gif\previasimplificada.gif)
+![ExCo - Prévia](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/gif/previasimplificada.gif)
 
 
 
