@@ -24,6 +24,12 @@
 
 ![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura.PNG)
 
+##### Prévia simples da solução
+
+![ExCo - Prévia](https://media.giphy.com/media/B945lGvm6EKgOfThkL/giphy.gif)
+
+
+
 ### Tecnologias adotadas na solução (Equipe)
 
 
