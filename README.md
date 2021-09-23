@@ -55,11 +55,6 @@
 ###### Tecnologias de Hardware:
 
 - Módulo WiFi ESP8266 NodeMCU ESP-12;
-- Jumper Macho x Macho;
-- Jumper Macho x Fêmea;
-- Led Rgb Alto Brilho - 5mm;
-- Resistor 300 Ω.
-
 
 
 ### Contribuições pessoais (Individual)
