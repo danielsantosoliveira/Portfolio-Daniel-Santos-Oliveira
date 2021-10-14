@@ -30,6 +30,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
       
 
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
+    
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
     - [Demonstração da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#demonstração-da-solucao)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-1)
@@ -37,8 +38,8 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-1)
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-1)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-1)
-  
 
+  
 
 ## Sobre mim
 
@@ -142,11 +143,11 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 
 
-​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos através de dados oriundos do da nova Lei do Cadastro Positivo, que vigorou a partir de 09/07/2019, no qual a entrada do consumidor pessoa física ou jurídica passou a ser automática, que resultou na geração de uma grande massa de dados, gerar valor desses dados obtidos através do vigor dessa lei.
+​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos através de dados oriundos da nova Lei do Cadastro Positivo, que vigorou a partir de 09/07/2019, no qual a entrada do consumidor pessoa física ou jurídica passou a ser automática, que resultou na geração de uma grande massa de dados, gerar valor desses dados obtidos através do vigor dessa lei.
 
-​	Devido ao cenário do momento, com a queda drástica de veículos emplacados no acúmulo anual, se comparado ao ano anterior, de acordo com o [relatório](https://fenabravesc.com.br/2020/05/) de maio/2020 da Fenabrave. Este problema afeta as operadoras de crédito, fabricante e concessionárias de veículos; Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. Gerando déficit de vendas e da fabricação de veículos e geração de estoque. Fabricantes e concessionárias precisam se adaptar aos novos desafios que o cenário do momento exige.
+​	Devido ao cenário do momento, com a queda drástica de veículos emplacados no acúmulo anual, se comparado ao ano anterior, de acordo com o [relatório](http://www.fenabrave.org.br/portalv2/Conteudo/Emplacamentos) de maio/2020 da Fenabrave. Este problema afeta as operadoras de crédito, fabricantes e concessionárias de veículos; Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. Gerando déficit de vendas e da fabricação de veículos e geração de estoque. Fabricantes e concessionárias precisam se adaptar aos novos desafios que o cenário do momento exige.
 
-​	Visual Data tem como objetivo orientar fabricante de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais com, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis.
+​	Visual Data tem como objetivo orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais com, logística, produção, publicidade, redução de custos, localização e contratação de seus fornecedores.
 
 [Visual Data](https://github.com/danielsantosoliveira/PI-SPCBrasil-2020)
 
