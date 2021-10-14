@@ -30,16 +30,15 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
       
 
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2019-2)
-    - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto)
-    - [Prévia simplificada da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-simplificada-da-solução)
-    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas)
-      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software)
-      - [Hardware](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hardware)
-    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais)
-    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills)
-    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills)
-
+    - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
+    - [Demonstração da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#demonstração-da-solucao)
+    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-1)
+      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-1)
+    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-1)
+    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-1)
+    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-1)
   
+
 
 ## Sobre mim
 
@@ -48,6 +47,8 @@ Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Camp
 
 
 ## Meus Projetos
+
+
 
 ### Em 2019-2
 
@@ -61,9 +62,13 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 
 [ExCo](https://github.com/danielsantosoliveira/ExCo)
 
+
+
 ##### Arquitetura do Projeto
 
 ![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura.PNG)
+
+
 
 ##### Prévia simplificada da solução
 
@@ -145,9 +150,13 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 [Visual Data](https://github.com/danielsantosoliveira/PI-SPCBrasil-2020)
 
+
+
 ##### Arquitetura do Projeto
 
 ![Arquitetura do Projeto](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura2.png)
+
+
 
 ##### Demonstração da solução
 
@@ -161,14 +170,14 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 ###### Software:
 
-- [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/): Para organização e apresentação dos dados;
-- [Python](https://www.python.org/): Linguagem de programação para Extração, Transformação e Carregamento dos dados;
-- [Pandas](https://pandas.pydata.org/): Biblioteca da linguagem Python, para o cruzamento e normalização dos dados;
-- [Matplotlib](https://matplotlib.org/): Biblioteca da linguagem Python, para a construção de gráficos;
-- [Inno Setup](https://jrsoftware.org/isinfo.php): Utilizado para criar o instalador da solução;
-- [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso e de Classes;
-- [Git](https://git-scm.com/): Para controle de versionamento;
-- [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.
+- [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/): Para organização e apresentação dos dados; 
+- [Python](https://www.python.org/): Linguagem de programação para Extração, Transformação e Carregamento dos dados; 
+- [Pandas](https://pandas.pydata.org/): Biblioteca da linguagem Python, para o cruzamento e normalização dos dados; 
+- [Matplotlib](https://matplotlib.org/): Biblioteca da linguagem Python, para a construção de gráficos; 
+- [Inno Setup](https://jrsoftware.org/isinfo.php): Utilizado para criar o instalador da solução; 
+- [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso e de Classes; 
+- [Git](https://git-scm.com/): Para controle de versionamento; 
+- [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto. 
 
 
 
