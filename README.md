@@ -16,7 +16,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto)
 
-    - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução)
+    - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o)
 
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas)
 
@@ -46,13 +46,14 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
   - [Em 2020-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-2)
-    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução-2)
+    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
+    - [Tour geral da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tour-geral-da-solu%C3%A7%C3%A3o)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-2)
       - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-2)
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-2)
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-2)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
-
+  
   
 
 ## Sobre mim
@@ -295,7 +296,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 - Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
 
-  [Mais detalhes das contribuições](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Contribuições da Equipe_v6.pdf)
+  [Mais detalhes das contribuições](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Contribui%C3%A7%C3%B5es%20da%20Equipe_v6.pdf)
 
   
 
