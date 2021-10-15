@@ -244,7 +244,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 ##### Arquitetura do Projeto
 
-![Arquitetura do Projeto](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Arquitetura%20da%20aplicacao.pdf)
+![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura-2020-2.PNG)
 
 
 
