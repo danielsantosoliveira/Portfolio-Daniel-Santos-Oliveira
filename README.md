@@ -8,6 +8,8 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
 - [Sobre mim](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#sobre-mim)
 
+- [Contatos](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contatos)
+
 - [Meus Projetos](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#meus-projetos)
 
   - [Em 2019-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2019-2)
