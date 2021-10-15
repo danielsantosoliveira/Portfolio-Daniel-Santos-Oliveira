@@ -244,7 +244,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 ##### Arquitetura do Projeto
 
-![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/master/docs/Arquitetura da aplicacao.pdf)
+![Arquitetura do Projeto](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Arquitetura%20da%20aplicacao.pdf)
 
 
 
@@ -282,37 +282,44 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 ​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, desenvolver, implementar e documentar o modelo para o Banco de Dados utilizado para a execução da solução e desenvolver a aplicação Back-End e desenvolver módulos para o Front-End. Minhas contribuições foram:
 
 - Definição dos requisitos (Design Thinking);
+
 - Desenvolvimento do DER (Diagrama Entidade Relacionamento);
+
 - Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
+
 - Guia prático para instalação e configurações do Sistema de Gerenciamento de Banco de Dados (PostgreSQL), com extensão PostGIS;
+
 - Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
+
 - Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
 
+  [Mais detalhes das contribuições](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Contribuições da Equipe_v6.pdf)
 
+  
 
 #### Hard Skills
 
-| Tecnologia           | Classificação     |
-| :------------------- | :---------------- |
-| Java                 | Faço com ajuda    |
-| Hibernate            | Faço com ajuda    |
-| Spring               | Faço com ajuda    |
-| PostgreSQL - PostGIS | Faço com ajuda    |
-| ReactJS              | Faço com ajuda    |
-| psql2shp             | Faço com ajuda    |
-| Astah                | Faço com ajuda    |
-| Git                  | Utilizo com ajuda |
-| GitHub               | Utilizo com ajuda |
+|      Tecnologia      |   Classificação   |
+| :------------------: | :---------------: |
+|         Java         |  Faço com ajuda   |
+|      Hibernate       |  Faço com ajuda   |
+|        Spring        |  Faço com ajuda   |
+| PostgreSQL - PostGIS |  Faço com ajuda   |
+|       ReactJS        |  Faço com ajuda   |
+|       psql2shp       |  Faço com ajuda   |
+|        Astah         |  Faço com ajuda   |
+|         Git          | Utilizo com ajuda |
+|        GitHub        | Utilizo com ajuda |
 
 
 
 #### Soft Skills
 
-| Habilidade         | Classificação      |
-| ------------------ | ------------------ |
+|     Habilidade     |   Classificação    |
+| :----------------: | :----------------: |
 | Metodologia SCRUM  | Faço com autonomia |
 | Trabalho em equipe | Faço com autonomia |
-| Design Thinking    | Faço com autonomia |
+|  Design Thinking   | Faço com autonomia |
 
 
 
