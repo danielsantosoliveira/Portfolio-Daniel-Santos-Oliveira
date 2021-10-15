@@ -34,7 +34,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
-    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução-1)
+    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-1)
       - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-1)
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-1)
