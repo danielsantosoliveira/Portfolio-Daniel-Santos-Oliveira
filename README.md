@@ -14,7 +14,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto)
 
-    - [Prévia simplificada da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-simplificada-da-solução)
+    - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução)
 
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas)
 
@@ -30,26 +30,36 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
       
 
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
-    
+
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
-    - [Demonstração da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#demonstração-da-solucao)
+    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução-1)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-1)
       - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-1)
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-1)
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-1)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-1)
 
+    
+
+  - [Em 2020-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
+
+    - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-2)
+    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prévia-da-solução-2)
+    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-2)
+      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-2)
+    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-2)
+    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-2)
+    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
+
   
 
 ## Sobre mim
 
-Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Campus Aquarius com ênfase em programação e regularmente matriculado no 5° semestre do curso de Análise e Desenvolvimento de Sistemas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Atuei mais de nove anos na área de Tecnologia da Informação como Analista de Suporte em TI, atualmente em transição na carreira, atuar como Desenvolvedor de Sistemas.
+Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Campus Aquarius com ênfase em programação e regularmente matriculado no 5° semestre do curso de Análise e Desenvolvimento de Sistemas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Atuei mais de nove anos na área de Tecnologia da Informação como Analista de Suporte em TI, atualmente estagiário como Desenvolvedor de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://visionaespacial.com.br/), em transição na carreira, motivado a atuar como Desenvolvedor de Sistemas.
 
 
 
 ## Meus Projetos
-
-
 
 ### Em 2019-2
 
@@ -71,7 +81,7 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 
 
 
-##### Prévia simplificada da solução
+##### Prévia da solução
 
 ![ExCo - Prévia](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/gif/previasimplificada.gif)
 
@@ -159,7 +169,7 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 
 
-##### Demonstração da solução
+##### Previa da solução
 
 ![ExCo - Prévia](https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/arquivos_readme/gif_demonstracao.gif)
 
@@ -171,14 +181,14 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 ###### Software:
 
-- [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/): Para organização e apresentação dos dados; 
-- [Python](https://www.python.org/): Linguagem de programação para Extração, Transformação e Carregamento dos dados; 
-- [Pandas](https://pandas.pydata.org/): Biblioteca da linguagem Python, para o cruzamento e normalização dos dados; 
-- [Matplotlib](https://matplotlib.org/): Biblioteca da linguagem Python, para a construção de gráficos; 
-- [Inno Setup](https://jrsoftware.org/isinfo.php): Utilizado para criar o instalador da solução; 
-- [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso e de Classes; 
-- [Git](https://git-scm.com/): Para controle de versionamento; 
-- [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto. 
+- [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/): Para organização e apresentação dos dados;	
+- [Python](https://www.python.org/): Linguagem de programação para Extração, Transformação e Carregamento dos dados;	
+- [Pandas](https://pandas.pydata.org/): Biblioteca da linguagem Python, para o cruzamento e normalização dos dados;	
+- [Matplotlib](https://matplotlib.org/): Biblioteca da linguagem Python, para a construção de gráficos;	
+- [Inno Setup](https://jrsoftware.org/isinfo.php): Utilizado para criar o instalador da solução;	
+- [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso e de Classes;	
+- [Git](https://git-scm.com/): Para controle de versionamento;	
+- [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.	 
 
 
 
@@ -216,7 +226,93 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 | Trabalho em equipe | Faço com ajuda |
 | Design Thinking    | Faço com ajuda |
 
+-------------
 
+### Em 2020-2	
+
+Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)
+
+
+
+​	O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de Extrair, Transformar e Carregar dados de arquivos do tipo [Shapefile](https://pt.wikipedia.org/wiki/Shapefile) para sua base de dados e o caminho inverso, gerar arquivos Shapefile de dados registrador em sua base de dados, devida limitação de licenças da solução que utilizara.
+
+​	ShapeGIS fora desenvolvido para atender essa necessidade, uma aplicação Web com interface intuitiva, desenvolvida com base nas heurísticas de [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), utilizadas tecnologias atuais como ReactJS, Spring Boot e como linguagem de programação Java para Fack-End e JavaScript para interações no Front-End.
+
+[ShapeGIS](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis)
+
+
+
+##### Arquitetura do Projeto
+
+![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/master/docs/Arquitetura da aplicacao.pdf)
+
+
+
+##### Previa da solução
+
+![ExCo - Prévia](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/demo-sprint-3.gif?raw=true)
+
+
+
+#### Tour geral da solução
+
+![Tour geral da soluão](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/tour.gif?raw=true)
+
+
+
+### Tecnologias Utilizadas
+
+
+
+###### Software:
+
+- [Java](https://www.java.com/pt-BR/): Linguagem de programação para desenvolvimento Back-End;	
+- [ReactJS](https://reactjs.org/): Biblioteca para desenvolvimento da interface;	
+- [Spring](https://spring.io/): Framework para acelerar o desenvolvimento do Back-End;	
+- [Hibernate](https://hibernate.org/): Framework para persistência de dados;
+- [psql2shp](https://postgis.net/): Aplicação utilizada para gerar Shape Files a partir do banco de dados;	
+- [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso, de Classes, DER e MER;	
+- [Git](https://git-scm.com/): Para controle de versionamento;	
+- [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.	
+
+
+
+### Contribuições pessoais
+
+​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, desenvolver, implementar e documentar o modelo para o Banco de Dados utilizado para a execução da solução e desenvolver a aplicação Back-End e desenvolver módulos para o Front-End. Minhas contribuições foram:
+
+- Definição dos requisitos (Design Thinking);
+- Desenvolvimento do DER (Diagrama Entidade Relacionamento);
+- Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
+- Guia prático para instalação e configurações do Sistema de Gerenciamento de Banco de Dados (PostgreSQL), com extensão PostGIS;
+- Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
+- Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
+
+
+
+#### Hard Skills
+
+| Tecnologia           | Classificação     |
+| :------------------- | :---------------- |
+| Java                 | Faço com ajuda    |
+| Hibernate            | Faço com ajuda    |
+| Spring               | Faço com ajuda    |
+| PostgreSQL - PostGIS | Faço com ajuda    |
+| ReactJS              | Faço com ajuda    |
+| psql2shp             | Faço com ajuda    |
+| Astah                | Faço com ajuda    |
+| Git                  | Utilizo com ajuda |
+| GitHub               | Utilizo com ajuda |
+
+
+
+#### Soft Skills
+
+| Habilidade         | Classificação      |
+| ------------------ | ------------------ |
+| Metodologia SCRUM  | Faço com autonomia |
+| Trabalho em equipe | Faço com autonomia |
+| Design Thinking    | Faço com autonomia |
 
 
 
