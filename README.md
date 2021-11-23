@@ -13,7 +13,6 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 - [Meus Projetos](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#meus-projetos)
 
   - [Em 2019-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2019-2)
-
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto)
     - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas)
@@ -25,7 +24,6 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
       
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
-
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
     - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-1)
@@ -36,7 +34,6 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
 
   - [Em 2020-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
-
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-2)
     - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
     - [Tour geral da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tour-geral-da-solu%C3%A7%C3%A3o)
@@ -47,7 +44,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
 
   
-  - [Em 2021-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
+  - [Em 2021-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2021-1)
     - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-2)
     - [Protótipos de telas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prot%C3%B3tipo-das-telas)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-3)
@@ -55,6 +52,16 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribui%C3%A7%C3%B5es-pessoais-3)
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-3)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-3)
+
+
+  - [Em 2021-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2021-2)
+    - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-3)
+    - [Protótipos de telas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prot%C3%B3tipo-das-telas-1)
+    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-4)
+      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-4)
+    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribui%C3%A7%C3%B5es-pessoais-4)
+    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-4)
+    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-4)
 
 
 ## Sobre mim
@@ -401,7 +408,7 @@ Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 
 ###### App
 
-![Web App](![App](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/wireframe_app.gif))
+![Web App](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/wireframe_web.gif)
 
 ###### App
 
