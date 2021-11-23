@@ -15,22 +15,15 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
   - [Em 2019-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2019-2)
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto)
-
     - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o)
-
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas)
-
       - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software)
       - [Hardware](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hardware)
-
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais)
-
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills)
-
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills)
 
       
-
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
 
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
@@ -41,7 +34,6 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-1)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-1)
 
-    
 
   - [Em 2020-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
 
@@ -55,18 +47,15 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
 
   
-
   - [Em 2021-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-2)
-    - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-2)
-    - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
-    - [Tour geral da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tour-geral-da-solu%C3%A7%C3%A3o)
-    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-2)
-      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-2)
-    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribuições-pessoais-2)
-    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-2)
-    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
+    - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-2)
+    - [Protótipos de telas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prot%C3%B3tipo-das-telas)
+    - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-3)
+      - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-3)
+    - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribui%C3%A7%C3%B5es-pessoais-3)
+    - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-3)
+    - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-3)
 
-  
 
 ## Sobre mim
 
@@ -83,7 +72,6 @@ Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Camp
 Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/)
 
 
-
 ​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos indicar produtos em um estoque e também cadastrá-los em uma base de dados para que o usuário interaja via aplicativo, utilizando o módulo ESP-8266 com o Web Server configurando no IDE Arduino foi possível fazer essa solução fácil e prática.
 
 ​	ExCo é um aplicativo desenvolvido para atender a necessidade de estoques, seja qual for, devida dificuldade para encontrarem seus produtos, por conta da quantidade variada e tamanho dos locais de armazenamento. Com uma interface amigável e hardware de baixo custo, o projeto oferece facilitar a identificação dos locais ao qual os produtos cadastrados se encontram em seus estoques, com LEDs indicativos, ao selecionar o produto no aplicativo, a solução indica o caminho ao qual se encontra. A solução pode ser utilizada através de celulares, tablets ou computares em redes locais, através da comunicação Wireless.
@@ -91,11 +79,9 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 [ExCo](https://github.com/danielsantosoliveira/ExCo)
 
 
-
 ##### Arquitetura do Projeto
 
 ![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura.PNG)
-
 
 
 ##### Prévia da solução
@@ -105,7 +91,6 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 
 
 ### Tecnologias Utilizadas
-
 
 
 ###### Software:
@@ -122,12 +107,10 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 
 - [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.
 
-  
 
 ###### Hardware:
 
 - Módulo WiFi ESP8266 NodeMCU ESP-12.
-
 
 
 ### Contribuições pessoais
@@ -141,7 +124,6 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 - Construção da maquete para apresentação final do projeto.
 
 
-
 #### Hard Skills
 
 | Tecnologia  |      Classificação      |
@@ -152,7 +134,6 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 |  Firebase   |     Faço com ajuda      |
 |     Git     |    Utilizo com ajuda    |
 |   GitHub    |    Utilizo com ajuda    |
-
 
 
 #### Soft Skills
@@ -169,7 +150,6 @@ Parceiro Acadêmico: [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São
 Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 
 
-
 ​	O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos através de dados oriundos da nova Lei do Cadastro Positivo, que vigorou a partir de 09/07/2019, no qual a entrada do consumidor pessoa física ou jurídica passou a ser automática, que resultou na geração de uma grande massa de dados, gerar valor desses dados obtidos através do vigor dessa lei.
 
 ​	Devido ao cenário do momento, com a queda drástica de veículos emplacados no acúmulo anual, se comparado ao ano anterior, de acordo com o [relatório](http://www.fenabrave.org.br/portalv2/Conteudo/Emplacamentos) de maio/2020 da Fenabrave. Este problema afeta as operadoras de crédito, fabricantes e concessionárias de veículos; Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. Gerando déficit de vendas e da fabricação de veículos e geração de estoque. Fabricantes e concessionárias precisam se adaptar aos novos desafios que o cenário do momento exige.
@@ -179,11 +159,9 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 [Visual Data](https://github.com/danielsantosoliveira/PI-SPCBrasil-2020)
 
 
-
 ##### Arquitetura do Projeto
 
 ![Arquitetura do Projeto](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura2.png)
-
 
 
 ##### Previa da solução
@@ -191,9 +169,7 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 ![ExCo - Prévia](https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/arquivos_readme/gif_demonstracao.gif)
 
 
-
 ### Tecnologias Utilizadas
-
 
 
 ###### Software:
@@ -208,7 +184,6 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 - [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.	 
 
 
-
 ### Contribuições pessoais
 
 ​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, desenvolver o algoritmo para extração, transformação, normalização e carregamento dos dados, desenvolver a interface responsável pela interação do usuário com a solução proposta e desenvolver o instalador da solução. Minhas contribuições foram:
@@ -217,7 +192,6 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 - Desenvolvimento do mini ETL para a normalização dos dados;
 - Desenvolvimento da interface para leitura organizada dos dados;
 - Desenvolvimento do instalador da solução.
-
 
 
 #### Hard Skills
@@ -232,7 +206,6 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 |       Astah        |  Faço com ajuda   |
 |        Git         | Utilizo com ajuda |
 |       GitHub       | Utilizo com ajuda |
-
 
 
 #### Soft Skills
@@ -250,7 +223,6 @@ Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/)
 Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)
 
 
-
 ​	O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de Extrair, Transformar e Carregar dados de arquivos do tipo [Shapefile](https://pt.wikipedia.org/wiki/Shapefile) para sua base de dados e o caminho inverso, gerar arquivos Shapefile de dados registrador em sua base de dados, devida limitação de licenças da solução que utilizara.
 
 ​	ShapeGIS fora desenvolvido para atender essa necessidade, uma aplicação Web com interface intuitiva, desenvolvida com base nas heurísticas de [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), utilizadas tecnologias atuais como ReactJS, Spring Boot e como linguagem de programação Java para Fack-End e JavaScript para interações no Front-End.
@@ -258,11 +230,9 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 [ShapeGIS](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis)
 
 
-
 ##### Arquitetura do Projeto
 
 ![Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/arquitetura-2020-2.PNG)
-
 
 
 ##### Previa da solução
@@ -270,15 +240,12 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 ![ExCo - Prévia](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/demo-sprint-3.gif?raw=true)
 
 
-
 #### Tour geral da solução
 
 ![Tour geral da soluão](https://github.com/danielsantosoliveira/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/tour.gif?raw=true)
 
 
-
 ### Tecnologias Utilizadas
-
 
 
 ###### Software:
@@ -293,26 +260,19 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 - [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.	
 
 
-
 ### Contribuições pessoais
 
 ​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, desenvolver, implementar e documentar o modelo para o Banco de Dados utilizado para a execução da solução e desenvolver a aplicação Back-End e desenvolver módulos para o Front-End. Minhas contribuições foram:
 
 - Definição dos requisitos (Design Thinking);
-
 - Desenvolvimento do DER (Diagrama Entidade Relacionamento);
-
 - Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
-
 - Guia prático para instalação e configurações do Sistema de Gerenciamento de Banco de Dados (PostgreSQL), com extensão PostGIS;
-
 - Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
-
 - Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
 
   [Mais detalhes das contribuições](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/docs/Contribui%C3%A7%C3%B5es%20da%20Equipe_v6.pdf)
 
-  
 
 #### Hard Skills
 
@@ -327,7 +287,6 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 |        Astah         |  Faço com ajuda   |
 |         Git          | Utilizo com ajuda |
 |        GitHub        | Utilizo com ajuda |
-
 
 
 #### Soft Skills
@@ -348,7 +307,6 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 
 
-
 ​	O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do gerenciamento de atas de reunião, pois atualmente o gerenciamento é manual, registrado em arquivos no formato XLS.
 
 ​	SISATAS é uma aplicação WEB desenvolvida para suprir a necessidade da empresa parceira, desenvolvida com tecnologias atuais, o sistema possui login logout, que restringe o acesso aos níveis de usuários, bem como o gerenciamento do usuário, possui também módulo para solicitação e recuperação automática de senha, criar atas, inserir seus responsáveis, aprovar, enviá-las e exportar para Excel, visualizar e extrair relatórios de atas e usuários e, sistema de notificação.
@@ -362,15 +320,12 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 ![SISATAS - Prévia](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/Representacao%20-%20Sprint3.gif)
 
 
-
 #### Protótipo das telas
 
 ![Tour geral da soluão](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/telas.gif)
 
 
-
 ### Tecnologias Utilizadas
-
 
 
 ###### Software:
@@ -384,22 +339,16 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 - [Material-UI](https://material-ui.com/) : Biblioteca para acelerar desenvolvimento da interface;	
 
 
-
 ### Contribuições pessoais
 
 ​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, desenvolver, implementar e documentar o modelo para o Banco de Dados utilizado para a execução da solução e desenvolver a aplicação Back-End e desenvolver módulos para o Front-End. Minhas contribuições foram:
 
 - Definição dos requisitos (Design Thinking);
-
 - Desenvolvimento do DER (Diagrama Entidade Relacionamento);
-
 - Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
-
 - Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
-
 - Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
-
-  
+ 
 
 #### Hard Skills
 
@@ -414,7 +363,6 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 |    Astah    |  Faço com ajuda   |
 |     Git     | Utilizo com ajuda |
 |   GitHub    | Utilizo com ajuda |
-
 
 
 #### Soft Skills
