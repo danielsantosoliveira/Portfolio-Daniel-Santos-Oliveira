@@ -70,6 +70,8 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
 ## Sobre mim
 
+![Daniel Santos Oliveira](https://avatars.githubusercontent.com/u/55162125?v=4)
+
 Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Campus Aquarius com ênfase em programação e regularmente matriculado no 5° semestre do curso de Análise e Desenvolvimento de Sistemas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Atuei mais de nove anos na área de Tecnologia da Informação como Analista de Suporte em TI, atualmente estagiário como Desenvolvedor de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://visionaespacial.com.br/), em transição na carreira, motivado a atuar como Desenvolvedor de Sistemas.
 
 
@@ -422,6 +424,103 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 | Metodologia SCRUM  | Faço com autonomia |
 | Trabalho em equipe | Faço com autonomia |
 |  Design Thinking   | Faço com autonomia |
+
+
+
+### Em 2021-2	
+
+Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
+
+
+
+​	O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de uma aplicação WEB e mobile para classificado de veículos.
+
+​	Bureauto é uma aplicação WEB desenvolvida para suprir a necessidade da empresa parceira, desenvolvida com tecnologias atuais, o sistema possui login logout, que restringe o acesso aos níveis de usuários, bem como o gerenciamento do usuário e anúncios, possui também módulo para solicitação e recuperação automática de senha, importação de novos usuários e anúncios por arquivos CSV, acesso a métricas geradas pela plataforma e através do chat em tempo real, entrar em contato com anunciantes.
+
+[Bureauto](https://github.com/BureauTech/BureAuto), [Bureauto Mobile](https://github.com/BureauTech/BureAutoMobile)
+
+
+
+##### Previa da solução
+
+[![img](https://github.com/BureauTech/BureAuto/raw/master/doc/gif/entrega-sprint-3.gif)](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/entrega-sprint-3.gif)
+
+
+
+#### Protótipo das telas
+
+
+
+###### App
+
+![Web App](![App](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/wireframe_app.gif))
+
+###### App
+
+![App](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/wireframe_app.gif)
+
+
+
+### Tecnologias Utilizadas
+
+
+
+###### Software:
+
+- [NodeJS](https://nodejs.org/) : Framework para desenvolvimento do servidor web;	
+- [React Native](https://reactnative.dev/) : Biblioteca para acelerar desenvolvimento mobile;	
+- [PostgreSQL](https://www.postgresql.org/) : Sistema para gerenciamento do banco de dados;
+- [TypeORM](https://typeorm.io/#/): Framework para Mapeamento Objeto Relacional;
+- [VueJS](https://reactjs.org/) : Biblioteca para acelerar desenvolvimento da interface;	
+- [Vuetify](https://vuetifyjs.com/en/) : Biblioteca para acelerar desenvolvimento da interface.	
+
+
+
+### Contribuições pessoais
+
+​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, contribuir na implementação e documentação o modelagem do Banco de Dados utilizado para a execução da solução e no desenvolvimento da aplicação Back-End e módulos para o Front-End. Minhas contribuições foram:
+
+- Definição dos requisitos (Design Thinking);
+
+- Desenvolvimento do DER (Diagrama Entidade Relacionamento);
+
+- Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
+
+- Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
+
+- Desenvolvimento do Front-End, parte do módulo responsável por filtragem dos anúncios.
+
+  
+
+#### Hard Skills
+
+|  Tecnologia  |   Classificação   |
+| :----------: | :---------------: |
+|    NodeJS    |  Faço com ajuda   |
+| React Native |  Faço com ajuda   |
+|  PostgreSQL  |  Faço com ajuda   |
+|   TypeORM    |  Faço com ajuda   |
+|    VueJS     |  Faço com ajuda   |
+|   Vuetify    |  Faço com ajuda   |
+|    Astah     |  Faço com ajuda   |
+|     Git      | Utilizo com ajuda |
+|    GitHub    | Utilizo com ajuda |
+
+
+
+#### Soft Skills
+
+|     Habilidade     |   Classificação    |
+| :----------------: | :----------------: |
+| Metodologia SCRUM  | Faço com autonomia |
+| Trabalho em equipe | Faço com autonomia |
+|  Design Thinking   | Faço com autonomia |
+
+
+
+## Meus Principais Conhecimentos
+
+​	Minhas tecnologias e frameworks com maior conhecimento são na área de desenvolvimento web, onde se destaca o Javascript, sendo toda a parte de backend aliado ao Servidor de Web NodeJS com o Express. Na parte de banco de dados, a utilização do PostgreSQL. Para o frontend, segue a utilização de frameworks Javascript VueJS. 
 
 
 
