@@ -484,19 +484,17 @@ Parceiro Acadêmico: [UOL](https://www.uol.com.br/)
 
 ##### Previa de algumas métricas coletadas e monitoradas
 
-[![img](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/metricas.jpg)
+![img](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/metricas.jpg)
 
 
 
 Links de acesso a todos os repositórios desse semestre:
 
-#### 
-
-<a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a>
-<a href="https://github.com/BureauTech/APIs-Docs" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Documentação API-REST</span></a>
-<a href="https://github.com/BureauTech/Cadastrol-Client" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Frontend da aplicação teste</span></a>
-<a href="https://github.com/BureauTech/Cadastrol-Server" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Backend da aplicação teste</span></a>
-<a href="https://github.com/BureauTech/BTAlert-AI" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Sistema de previsão de Machine Learning</span></a>
+<a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a>  
+<a href="https://github.com/BureauTech/APIs-Docs" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Documentação API-REST</span> </a>   
+<a href="https://github.com/BureauTech/Cadastrol-Client" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Frontend da aplicação teste</span></a>  
+<a href="https://github.com/BureauTech/Cadastrol-Server" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Backend da aplicação teste</span> </a>  
+<a href="https://github.com/BureauTech/BTAlert-AI" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Sistema de previsão de Machine Learning</span> </a> 
 
 
 
