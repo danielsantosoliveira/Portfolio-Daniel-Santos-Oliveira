@@ -22,7 +22,6 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills)
 
-      
   - [Em 2020-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2020-1)
     - [Arquitetura do Projeto](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#arquitetura-do-projeto-1)
     - [Prévia da Solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-1)
@@ -43,7 +42,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-2)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-2)
 
-  
+
   - [Em 2021-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2021-1)
     - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-2)
     - [Protótipos de telas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prot%C3%B3tipo-das-telas)
@@ -68,7 +67,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
 
 ![Daniel Santos Oliveira](https://avatars.githubusercontent.com/u/55162125?v=4)
 
-Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Campus Aquarius com ênfase em programação e regularmente matriculado no 5° semestre do curso de Análise e Desenvolvimento de Sistemas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Atuei mais de nove anos na área de Tecnologia da Informação como Analista de Suporte em TI, atualmente estagiário como Desenvolvedor de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://visionaespacial.com.br/), em transição na carreira, motivado a atuar como Desenvolvedor de Sistemas.
+Formado Técnico em Informática pela Etec Prof.ª Ilza Nascimento Pintus - Campus Aquarius com ênfase em programação e regularmente matriculado no 6° semestre do curso de Análise e Desenvolvimento de Sistemas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Atuei mais de nove anos na área de Tecnologia da Informação como Analista de Suporte em TI, atualmente estagiário como Desenvolvedor de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://visionaespacial.com.br/), em transição na carreira, motivado a atuar como Desenvolvedor de Sistemas.
 
 
 
@@ -355,7 +354,7 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 - Desenvolvimento do MER - Conceitual e Lógico(Modelo de Entidade Relacionamento);
 - Desenvolvimento do Back-End, seus controladores, modelos, serviços e configurações;
 - Desenvolvimento do Front-End, módulos para envio de arquivos, de-para, configurações por parte do usuário, tem como objetivo relacionar os atributos do arquivo com os do Banco de dados.
- 
+
 
 #### Hard Skills
 
@@ -473,9 +472,94 @@ Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 
 
 
+### Em 2022-1	
+
+Parceiro Acadêmico: [UOL](https://www.uol.com.br/)
+
+
+
+​	O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de uma solução disruptiva baseado em IA(Inteligência Artificial) que visa preditar falhas de sistemas.
+
+
+
+##### Previa de algumas métricas coletadas e monitoradas
+
+[![img](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira/blob/main/resources/img/metricas.jpg)
+
+
+
+Links de acesso a todos os repositórios desse semestre:
+
+#### 
+
+<a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a>
+<a href="https://github.com/BureauTech/APIs-Docs" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Documentação API-REST</span></a>
+<a href="https://github.com/BureauTech/Cadastrol-Client" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Frontend da aplicação teste</span></a>
+<a href="https://github.com/BureauTech/Cadastrol-Server" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Backend da aplicação teste</span></a>
+<a href="https://github.com/BureauTech/BTAlert-AI" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Sistema de previsão de Machine Learning</span></a>
+
+
+
+### Tecnologias Utilizadas
+
+
+
+###### Software:
+
+- [Java](https://www.java.com/pt-BR/): Linguagem de programação para desenvolvimento Back-End;	
+- [Maven](https://maven.apache.org/) : Software para gerenciamento de projetos;  
+- [Spring](https://spring.io/): Framework para acelerar o desenvolvimento do Back-End;	
+- [Hibernate](https://hibernate.org/): Framework para persistência de dados;  
+
+- [PostgreSQL](https://www.postgresql.org/) : Sistema para gerenciamento do banco de dados;  
+
+- [Swagger](https://swagger.io/) : Framework para documentação da API;  
+
+- [VueJS](https://reactjs.org/) : Biblioteca para acelerar desenvolvimento da interface;	
+
+- [Vuetify](https://vuetifyjs.com/en/) : Biblioteca para acelerar desenvolvimento da interface.	
+
+  
+
+### Contribuições pessoais
+
+​	Desempenhei o papel de Desenvolvedor, utilizando a metodologia SCRUM, onde pude, além de contribuir no desenvolvimento da documentação, contribuir na implementação e documentação. Minhas contribuições foram:
+
+- Definição dos requisitos (Design Thinking);
+
+- Desenvolvimento da documentação da API (swagger)
+
+  
+
+#### Hard Skills
+
+| Tecnologia |     Classificação     |
+| :--------: | :-------------------: |
+|    Java    |    Faço com ajuda     |
+| Hibernate  |    Faço com ajuda     |
+|   Spring   |    Faço com ajuda     |
+| PostgreSQL |    Faço com ajuda     |
+|  Swagger   |    Faço com ajuda     |
+|   VueJS    |    Faço com ajuda     |
+|  Vuetify   |    Faço com ajuda     |
+|    Git     |   Utilizo com ajuda   |
+|   GitHub   | Utilizo com autonomia |
+
+
+
+#### Soft Skills
+
+|     Habilidade     |   Classificação    |
+| :----------------: | :----------------: |
+| Metodologia SCRUM  | Faço com autonomia |
+| Trabalho em equipe | Faço com autonomia |
+|  Design Thinking   | Faço com autonomia |
+
+
+
 ## Meus Principais Conhecimentos
 
-​	Minhas tecnologias e frameworks com maior conhecimento são na área de desenvolvimento web, onde se destaca o Javascript, sendo toda a parte de backend aliado ao Servidor de Web NodeJS com o Express. Na parte de banco de dados, a utilização do PostgreSQL. Para o frontend, segue a utilização de frameworks Javascript VueJS. 
+​	As tecnologias e frameworks com maior conhecimento são na área de desenvolvimento web, onde se destaca o Javascript, sendo toda a parte de backend aliado ao Servidor de Web NodeJS com o Express. Na parte de banco de dados, a utilização do PostgreSQL. Para o frontend, segue a utilização de frameworks Javascript VueJS. 
 
 
 
