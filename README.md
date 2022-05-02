@@ -53,7 +53,7 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-3)
 
 
-  - [Em 2021-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2021-2)
+- [Em 2021-2](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2021-2)
     - [Prévia da solução](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-da-solu%C3%A7%C3%A3o-3)
     - [Protótipos de telas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#prot%C3%B3tipo-das-telas-1)
     - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-4)
@@ -61,6 +61,13 @@ Apresentação dos projetos ao qual participei como parte da metodologia utiliza
     - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribui%C3%A7%C3%B5es-pessoais-4)
     - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-4)
     - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-4)
+- [Em 2022-1](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#em-2022-1)
+  - [Prévia de métricas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#previa-de-algumas-m%C3%A9tricas-coletadas-e-monitoradas)
+  - [Tecnologias Utilizadas](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#tecnologias-utilizadas-5)
+    - [Software](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#software-5)
+  - [Contribuições Pessoais](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#contribui%C3%A7%C3%B5es-pessoais-5)
+  - [Hard Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#hard-skills-5)
+  - [Soft Skills](https://github.com/danielsantosoliveira/Portfolio-Daniel-Santos-Oliveira#soft-skills-5)
 
 
 ## Sobre mim
